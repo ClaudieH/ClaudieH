@@ -1,5 +1,5 @@
 # Claudie Humbert
- ## 📊 Spécialiste en Data
+## 📊 Spécialiste en Data
  
 Passionnée par la donnée et sa capacité à raconter des histoires, j'évolue aujourd'hui en tant que **Data Analyst** avec une forte appétence pour l'analyse, la visualisation et la valorisation des données.
  
